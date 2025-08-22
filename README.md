@@ -6,12 +6,13 @@
 
 ## 🌀 Who am I?  
 - 🛠️ Messing with **tech, networks, and code**  
+- 🧩 Currently in the “figuring everything out” stage
 - 🎮 Gaming way too much in the name of “research”  
 - ⚡ Somehow busy, but not sure with what  
 
 ---
 
-## 📊 Current Productivity Level  
+## 📊 Current <sub>un</sub>Productivity Level
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OptimumStrike&show_icons=true&theme=radical)  
 
 ---
@@ -20,7 +21,7 @@
 - Pretending to be productive 💻  
 - Configuring routers for fun 🔧  
 - Overthinking README design 📜  
-- Accidentally looking like I know what I’m doing 🤡  
+- Accidentally looking like I know what I’m doing 🫡
 
 ---
 
