@@ -28,4 +28,10 @@
 ## 🧩 Fun Fact  
 Most of my projects exist only in my head.  
 Check back later to see if they’ve escaped.
-```
+
+---
+
+## 📑 And Let's Not Forget The Quote Of The Day!
+
+| ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
+|---|
