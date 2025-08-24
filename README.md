@@ -31,7 +31,7 @@ Check back later to see if they’ve escaped.
 
 ---
 
-## 📑 And Let's Not Forget Famous Quote<sub>s<sub>!
+## 📑 And Let's Not Forget Famous Quote<sub>s</sub>!
 
 | ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
 |---|
