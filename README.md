@@ -1,4 +1,4 @@
-# 🌐 Marek / OptimumStrike 🥐
+# 🌐 Mark / OptimumStrike 🥐
 
 > *"Doing everything, but absolutely nothing at the same time."*  
 
@@ -35,3 +35,7 @@ Check back later to see if they’ve escaped.
 
 | ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
 |---|
+
+📫 **Contact**  
+For serious or relevant things:  
+<a href="mailto:github@space0.net">github@space0.net</a>
