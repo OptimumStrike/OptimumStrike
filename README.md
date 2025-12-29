@@ -38,4 +38,4 @@ Check back later to see if they’ve escaped.
 
 📫 **Contact**  
 For serious or relevant things:  
-<a href="mailto:github@space0.net">github@space0.net</a>
+<a href="mailto:github@space0.net">dev@space0.net</a>
